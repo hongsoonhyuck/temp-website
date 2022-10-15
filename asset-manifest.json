@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/www.soonhyuckhong.com/static/css/main.778eeed7.css",
-    "main.js": "/www.soonhyuckhong.com/static/js/main.9e15bb32.js",
-    "static/js/787.4b24f717.chunk.js": "/www.soonhyuckhong.com/static/js/787.4b24f717.chunk.js",
-    "static/media/hashirshoaeb.png": "/www.soonhyuckhong.com/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
-    "index.html": "/www.soonhyuckhong.com/index.html",
-    "main.778eeed7.css.map": "/www.soonhyuckhong.com/static/css/main.778eeed7.css.map",
-    "main.9e15bb32.js.map": "/www.soonhyuckhong.com/static/js/main.9e15bb32.js.map",
-    "787.4b24f717.chunk.js.map": "/www.soonhyuckhong.com/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/static/css/main.778eeed7.css",
+    "main.js": "/static/js/main.5aee4fe0.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "index.html": "/index.html",
+    "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
+    "main.5aee4fe0.js.map": "/static/js/main.5aee4fe0.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.9e15bb32.js"
+    "static/js/main.5aee4fe0.js"
   ]
 }
