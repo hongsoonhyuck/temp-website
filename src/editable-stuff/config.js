@@ -118,23 +118,33 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for full-time Software Engineering opportunities! If you know of any positions available, have any questions, or just want to say hi, please feel free to email me at",
   email: "hong.soonhyuck@gmail.com",
 };
 
 const experiences = {
-  show: false,
+  show: true,
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Academic Tutor',// Here Add Company Name
+      companylogo: require('../assets/img/tutor-sm.png'),
+      date: 'April 2022 – Present',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Lead Production Assistant',
+      companylogo: require('../assets/img/camera-sm.png'),
+      date: 'April 2021 – March 2022',
+    },
+    {
+      role: 'Etsy Shop Retail',
+      companylogo: require('../assets/img/dagrace.png'),
+      date: 'September 2020 - August 2021',
+    },
+    {
+      role: 'Media Services Team',
+      companylogo: require('../assets/img/berkeleyLawLogo.png'),
+      date: 'January 2018 - May 2020',
     },
   ]
 }
