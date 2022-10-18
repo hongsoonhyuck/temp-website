@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.aeed1271.css",
-    "main.js": "/static/js/main.2347244a.js",
+    "main.css": "/static/css/main.937b2a25.css",
+    "main.js": "/static/js/main.91dc2a1f.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
-    "static/media/soonhyuckhong.png": "/static/media/soonhyuckhong.ca4d8876ca45cd50f0a0.png",
+    "static/media/soonhyuckhong.png": "/static/media/soonhyuckhong.940c64261edf7850ae1a.png",
+    "static/media/dagrace.png": "/static/media/dagrace.153c395c87de5506a011.png",
     "static/media/resume.pdf": "/static/media/resume.9ac42b67f144224af54b.pdf",
+    "static/media/berkeleyLawLogo.png": "/static/media/berkeleyLawLogo.ee92e4314a3a96cd5fc1.png",
+    "static/media/camera-sm.png": "/static/media/camera-sm.0bde7eaaa03cc2ee60d0.png",
+    "static/media/tutor-sm.png": "/static/media/tutor-sm.8b22e429134285b2fdcd.png",
     "index.html": "/index.html",
-    "main.aeed1271.css.map": "/static/css/main.aeed1271.css.map",
-    "main.2347244a.js.map": "/static/js/main.2347244a.js.map",
+    "main.937b2a25.css.map": "/static/css/main.937b2a25.css.map",
+    "main.91dc2a1f.js.map": "/static/js/main.91dc2a1f.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aeed1271.css",
-    "static/js/main.2347244a.js"
+    "static/css/main.937b2a25.css",
+    "static/js/main.91dc2a1f.js"
   ]
 }
