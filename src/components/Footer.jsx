@@ -24,6 +24,7 @@ const Footer = (props) => {
             version. Shoutout to Hashir Shoaib for the template.
           </small>
         </p>
+        <a href="https://www.flaticon.com/free-icons/profile" title="profile icons">Profile icons created by Freepik - Flaticon</a>
       </Container>
     </footer>
   );
