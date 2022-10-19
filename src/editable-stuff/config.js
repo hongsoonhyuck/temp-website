@@ -46,7 +46,7 @@ const about = {
   imageLink: require("../editable-stuff/soonhyuckhong.png"),
   imageSize: 375,
   message:
-    "My name is Soonhyuck Hong.",
+    "My name is Soonhyuck Hong. I’m a Electrical Engineering and Computer Science graduate from University of California Berkeley.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
