@@ -56,11 +56,11 @@ const about = {
 // If you want to display specfic projects, add the repository names,
 //      i.e ["repository-1", "repo-2"]
 const repos = {
-  show: false,
+  show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hongsoonhyuck", //i.e."johnDoe12Gh"
+  gitHubUsername: "soonhyuckhong", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: [],
+  specificRepos: ["temp-website","Cloth-Simulator"],
 };
 
 // Leadership SECTION
@@ -89,27 +89,27 @@ const leadership = {
 
 // SKILLS SECTION
 const skills = {
-  show: false,
+  show: true,
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
+    { name: "Java", value: 85 },
     { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
+    { name: "C/C++", value: 50 },
+    { name: "JavaScript", value: 45 },
+    { name: "React", value: 75 },
     { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "SQL", value: 30 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
+    { name: "Goal-Oriented", value: 85 },
+    { name: "Collaboration", value: 75 },
+    { name: "Positivity", value: 80 },
+    { name: "Adaptability", value: 90 },
+    { name: "Problem Solving", value: 95 },
     { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Organization", value: 80 },
+    { name: "Creativity", value: 70 },
   ],
 };
 
@@ -124,7 +124,7 @@ const getInTouch = {
 
 const experiences = {
   show: true,
-  heading: "Experiences",
+  heading: "Experience",
   data: [
     {
       role: 'Academic Tutor',// Here Add Company Name
