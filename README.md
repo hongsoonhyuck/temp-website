@@ -30,11 +30,11 @@
 - [Sharing 💗](#sharing-)
 - [Prerequisites 🍪](#prerequisites-)
 - [Setup And Deployment 🔧](#setup-and-deployment-)
-- [Contributing 🙌](#contributing-)
+<!--- [Contributing 🙌](#contributing-)
 - [Issues](#issues)
 - [Upcoming Features / Improvements 🔗](#upcoming-features-/-improvements-)
 - [Showcase 🚀](#showcase-)
-- [Versão em Português :brazil:](#versao-em-portugues-)
+- [Versão em Português :brazil:](#versao-em-portugues-) -->
 
 ## Technology Stack 🛠️
 
@@ -131,7 +131,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
     
    Next time if you make changes, repeat from step 8.
 
-Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
+Facing issues? Feel free to contact at hong.soonhyuck@gmail.com or hashirshoaeb@gmail.com.
 
 <!-- ## Showcase 🚀
 
@@ -223,7 +223,8 @@ Novas contribuições e revisões na tradução são muito bem vindas!
 ## Notice:
 
 This project has been archived. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/hashirshoaeb/portfolio)
- -->
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
+ -->
