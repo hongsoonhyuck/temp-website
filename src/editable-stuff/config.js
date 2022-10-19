@@ -21,7 +21,7 @@ const mainBody = {
     // },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/soonhyuckhong/",
+      url: "https://www.linkedin.com/in/soonhyuck-hong/",
     },
   ],
 };

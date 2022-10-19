@@ -45,13 +45,13 @@ code {
   height: 100%;
 }
 
-// .bg-gradient {
-//   background: linear-gradient(rgba(245, 245, 245, 1), rgba(245, 245, 245, 0));
-// }
-
 .bg-gradient {
-  background: linear-gradient(#69b7eb, #b3dbd3, #f4d6db);
+  background: linear-gradient(rgba(245, 245, 245, 1), rgba(245, 245, 245, 0));
 }
+
+// .bg-gradient {
+//   background: linear-gradient(#69b7eb, #b3dbd3, #f4d6db);
+// }
 
 .navbar-transparent {
   background-color: rgba(255, 255, 255, 0);
