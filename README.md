@@ -8,7 +8,7 @@
     <a href="https://www.soonhyuckhong.com">Soonhyuck Hong</a>
     <br />
     <br />
-    <a href="https://soonhyuckhong.github.io">About Me</a>
+<!--     <a href="https://soonhyuckhong.github.io">About Me</a> -->
   </p>
 </p>
 
