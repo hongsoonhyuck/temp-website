@@ -45,8 +45,12 @@ code {
   height: 100%;
 }
 
+// .bg-gradient {
+//   background: linear-gradient(rgba(245, 245, 245, 1), rgba(245, 245, 245, 0));
+// }
+
 .bg-gradient {
-  background: linear-gradient(rgba(245, 245, 245, 1), rgba(245, 245, 245, 0));
+  background: linear-gradient(#69b7eb, #b3dbd3, #f4d6db);
 }
 
 .navbar-transparent {
@@ -128,6 +132,11 @@ code {
     transform: scaleX(0);
   }
 }
+
+.progress-bar {
+  background-color: #BFD7E3;
+}
+
 .progress-bar-animation {
   @extend .progress;
   & > * {
